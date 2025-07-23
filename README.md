@@ -7,7 +7,7 @@
 
 - 🔭 I’m actively pursuing PhD opportunities in computer science and seeking exciting new roles in AI and tech innovation.
 - 🌱 I’m diving deep into MRI Image Processing, exploring its applications in medical diagnostics.
-- 💬 Ask me about Python, Deep Learning, Computer Vision, Data Visualization & Storytelling, or Natural Language Processing (NLP). I love sharing insights!
+- 💬 Ask me about Python, Deep Learning, Computer Vision, Data Visualization or Natural Language Processing (NLP). I love sharing insights!
 - ⚡ Fun Fact: I’m a huge fan of mystery and detective games, always ready to crack a case! 🥸
 
 ## 🔨 Languages and Tools
