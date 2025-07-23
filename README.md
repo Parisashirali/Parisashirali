@@ -1,7 +1,9 @@
+<!-- Banner -->
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVlZGk0ZjFjM3pkNnE2YjBvYXkzaHZ5bmppYXJuYmlieGQ3cHFtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="MasterHead">
 </div>
 
+<!-- Intro -->
 <h1 style="text-align: left;">Hi Fellow Devs 👋</h1>
 <p style="text-align: left;">I'm an AI Engineer and Researcher focused on <strong>Medical Image Processing</strong> and <strong>Generative AI</strong>, often coding late into the night like a true night owl 🦉 and always exploring new AI frontiers 🤖.</p>
 
@@ -9,6 +11,8 @@
 - 🌱 I’m learning MRI Image Processing, exploring its applications in medical diagnostics.
 - 💬 Ask me about Python, Deep Learning, Computer Vision, Data Visualization or Natural Language Processing (NLP). I love sharing insights!
 - ⚡ Fun Fact: I’m a huge fan of mystery and detective games, always ready to crack a case! 🥸
+
+<!-- Languages and Tools -->
 
 ## 🔨 Languages and Tools
 <p style="text-align: left;"> 
@@ -23,6 +27,8 @@
 
 </p>
 
+<!-- Principles -->
+
 ## ✍️ My Principles
 
 🔗 **Ethics First**
@@ -36,6 +42,8 @@ I’d rather build a clean, reliable model that gets the job done than a complex
 🔗 **Stay Curious, Stay Humble**
 
 AI is evolving fast, so I’m always diving into new research, tools, and techniques to stay sharp. But I also know the limits of what I’m building. AI isn’t magic🪄, just math and data with plenty of quirks🌪.
+
+<!-- connect -->
 
 ## 📫 Let's connect
 I'm always looking to connect with other professionals in the field. You can find me on [LinkedIn](https://www.linkedin.com/in/parisa-s-b811851a7) or reach out to me via email.
