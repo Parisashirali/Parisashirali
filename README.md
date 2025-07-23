@@ -5,7 +5,7 @@
 
 <!-- Intro -->
 <h1 style="text-align: left;">Hi Fellow Devs 👋</h1>
-<p style="text-align: left;">I'm an AI Engineer and Researcher focused on <strong>Medical Image Processing</strong> and <strong>Generative AI</strong>, often coding late into the night like a true night owl 🦉 and always exploring new AI frontiers 🤖.</p>
+<p style="text-align: left;">I'm an AI Engineer and Researcher focusing on <strong>Medical Image Processing</strong> and <strong>Generative AI</strong>, often coding late into the night like a true night owl 🦉 and always exploring new AI frontiers 🤖.</p>
 
 - 🔭 I’m actively pursuing PhD opportunities in computer science and seeking exciting new roles in AI and tech innovation.
 - 🌱 I’m learning MRI Image Processing, exploring its applications in medical diagnostics.
