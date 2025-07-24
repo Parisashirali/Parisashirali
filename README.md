@@ -17,7 +17,11 @@
 ## 🔨 Languages and Tools
 <p style="text-align: left;"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40" /> </a> 
-<a href="https://www.github.com" target="_blank"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" /></a>
+<a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" /> </a> 
+<a href="https://matplotlib.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/matplotlib/matplotlib-plain.svg" alt="matplotlib" width="40" height="40" /> </a> 
+<a href="https://opencv.org//" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40" /> </a> 
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /> </a> 
+<a href="https://www.github.com" target="_blank"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="git" width="50" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker icon" width="40" height="40" /> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
